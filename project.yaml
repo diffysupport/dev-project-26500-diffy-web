@@ -10,7 +10,7 @@ basic:
         - 1200
     pages:
         - /
-        - /features
+        - '/features?oi=09'
     monitoring:
         days: {  }
         type: ''
